@@ -1,6 +1,6 @@
 Practica React CSS y JavaScript
 
 <p align="center">
-  <img src="https://ibb.co/1Mm4Wss" width="350" title="hover text">
+  <img src="https://i.ibb.co/cwrsnbb/Foto1.png" width="350">
   
 </p>
