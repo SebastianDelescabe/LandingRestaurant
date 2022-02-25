@@ -15,7 +15,7 @@ const Navbar = () => {
         <img src={images.gericht} alt="app logo" />
       </div>
       <ul className='app__navbar-links'>
-        <li className='p__opensans'><a href='#home'></a>Home</li>
+        <li className='p__opensans'><a href='#home'></a>Home</li> 
         <li className='p__opensans'><a href='#about'></a>About</li>
         <li className='p__opensans'><a href='#menu'></a>Menu</li>
         <li className='p__opensans'><a href='#awards'></a>Awards</li>
