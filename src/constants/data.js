@@ -32,12 +32,12 @@ const cocktails = [
   {
     title: 'Aperol Sprtiz',
     price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    tags: 'Aperol | Villa Marchesi prosecco ',
   },
   {
     title: "Dark 'N' Stormy",
     price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    tags: 'Dark rum | Ginger beer',
   },
   {
     title: 'Daiquiri',
@@ -47,12 +47,12 @@ const cocktails = [
   {
     title: 'Old Fashioned',
     price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    tags: 'Bourbon | Brown sugar',
   },
   {
     title: 'Negroni',
     price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    tags: 'Gin | Sweet Vermouth | Campari',
   },
 ];
 
