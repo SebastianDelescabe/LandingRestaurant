@@ -10,10 +10,10 @@
 
 .app__bg {
   background: var(--color-black);
-  /* background-position: center;
+  background-position: center;
   background-size: cover;
   background-repeat: repeat;
-  background-attachment: fixed; */
+  background-attachment: fixed;
 }
 
 .app__wrapper {

@@ -128,12 +128,11 @@
     }
 
     .app__navbar-login a {
-        font-size: 10px;
+        display: none;
     }
 
     .app__navbar-login div {
-        height: 20px;
-        width: 1px;
+        display: none;
     }
 
     .app__navbar-logo img {
