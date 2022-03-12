@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useRef} from 'react';
 
 import { BsInstagram, BsArrowLeftShort, BsArrowRightShort } from 'react-icons/bs'
 import { SubHeading } from '../../components';
@@ -9,10 +9,10 @@ const galleryImages = [images.gallery01, images.gallery02, images.gallery03, ima
 
 const Gallery = () => {
 
-  const scrollRef = React.useRef(null);
+  const scrollRef = useRef();
 
   const scroll = (direction) => {
-    const { current } = scrollRef; //destructuring
+    const current = scrollRef.current; 
 
     if (direction === 'left') {
       current.scrollLeft -= 300;
