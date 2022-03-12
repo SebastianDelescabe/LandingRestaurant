@@ -117,6 +117,12 @@
     .app__navbar-links {
         display: none;
     }
+    .app__navbar-login a {
+        display: none;
+    }
+    .app__navbar-login div {
+        display: none;
+    }
 
     .app__navbar-smallscreen {
         display: flex;
